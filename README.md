@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangSiyang2001)](https://github.com/TangSiyang2001/github-readme-stats)
 
 <!--
 **TangSiyang2001/TangSiyang2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
