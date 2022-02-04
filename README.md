@@ -6,8 +6,8 @@
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=TangSiyang2001)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JavaGuide)
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=TangSiyang2001)
+![TangSiyang2001's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TangSiyang2001&show_icons=true&count_private=true&theme=gotham)
 <!--
 **TangSiyang2001/TangSiyang2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
