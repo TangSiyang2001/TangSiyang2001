@@ -1,8 +1,8 @@
 ### Hi there 👋
 - :school: Student from CSU
-- 🔭 Focusing on big data and back end development                           
-- 🌱 Interested in distributed system and middleware development
-- 👯 Looking to collaborate on making awsome change
+- 🔭 Focusing on distributed system and big data                           
+- 🌱 Interested in middleware development
+- 👯 Looking to collaborate on changing the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=TangSiyang2001)
