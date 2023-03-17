@@ -2,7 +2,7 @@
 - :school: Student from CSU
 - 🔭 Focusing on distributed database and big data systems                          
 - 🌱 Interested in middleware development
-- 👯 Looking to collaborate on changing the world
+- 👯 Looking to collaborate on making changes to the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangSiyang2001&show_icons=true&theme=dracula)    
