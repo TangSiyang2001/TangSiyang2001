@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangSiyang2001&show_icons=true&theme=dracula)    
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TangSiyang2001&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TangSiyang2001&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **TangSiyang2001/TangSiyang2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=TangSiyang2001)
