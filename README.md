@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :school: Student from CSU
-- 🔭 Focusing on distributed database and big data systems                          
-- 🌱 Interested in middleware development
+- 🔭 Focusing on distributed databases and big data systems                          
+- 🌱 Interested in OLAP especially
 - 👯 Looking to collaborate on making changes to the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
