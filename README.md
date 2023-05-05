@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on making changes to the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangSiyang2001&show_icons=true&theme=dracula)    
+<!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangSiyang2001&show_icons=true&theme=dracula)     -->
 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TangSiyang2001&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
