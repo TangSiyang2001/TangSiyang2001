@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Rookie infra RD, working on OLAP database currently.                          
+- 🔭 I'm a rookie infra RD, working on OLAP database currently.                          
 - 🌱 Developing abilities for better code abstraction and quality.
 - 👯 Looking to collaborate on making changes to the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
