@@ -1,7 +1,6 @@
 ### Hi there 👋
-- :school: Student from CSU
-- 🔭 Focusing on distributed databases and big data systems                          
-- 🌱 Interested in OLAP especially
+- 🔭 Rookie infra RD, working on OLAP database currently.                          
+- 🌱 Deveplop abilities for better code abstraction and quality.
 - 👯 Looking to collaborate on making changes to the world
 - 📫 How to reach me: tangsiyang2001@foxmail.com
 
