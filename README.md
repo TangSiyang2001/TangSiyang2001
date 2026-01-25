@@ -2,7 +2,7 @@
 - 🔭 I'm a rookie infra RD, working on OLAP database currently.                          
 - 🌱 Developing abilities for better code abstraction and quality.
 - 👯 Looking to collaborate on making changes to the world
-- 📫 How to reach me: tangsiyang2001@foxmail.com
+- 📫 How to reach me: tangsiyang2001@gmail.com
 
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangSiyang2001&show_icons=true&theme=dracula&include_all_commits=true)     -->
 
